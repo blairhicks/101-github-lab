@@ -1,7 +1,7 @@
 Hank Preston -
 Kevin Corbin -
 Ben Flowers -
-Blair Hicks -
+Blair Hicks - blahicks@ciso.com
 Bryan Adams -
 Bryan Byrne - brybyrne@cisco.com
 Chet Puskarz -
@@ -9,7 +9,7 @@ Chris Bogdon -
 Derek Paupore -
 Kelly Feltes -
 Matthew Brainard -
-Mike Tokarz - mtokafz@cisco.com
+Mike Tokarz - mtokarz@cisco.com
 Paul Lewis -
 Russel Wilkinson - russel@cisco.com
 Ryan Shoemaker -
